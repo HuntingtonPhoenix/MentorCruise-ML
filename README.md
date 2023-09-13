@@ -10,8 +10,6 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Developer-KMJ/HuntingtonPhoenix / MentorCruise-ML/total) 
-
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
